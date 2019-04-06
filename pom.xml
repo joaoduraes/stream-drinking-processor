@@ -12,7 +12,7 @@
 	<artifactId>stream-drinking-processor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>stream-drinking-processor</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Cloud Stream processor app demo</description>
 
 	<properties>
 		<java.version>11</java.version>
